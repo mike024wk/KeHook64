@@ -1,4 +1,3 @@
 # KeHook64 (Kernel/Driver)
-Kernel Hook X64
+Kernel Hook X64 Compile As Release
 
-Build As X64 Release
